@@ -1,1 +1,2 @@
 Mars observations
+This is a new line of text
